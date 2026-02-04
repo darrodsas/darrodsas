@@ -1,4 +1,4 @@
-<h1 align="center">What's up! I'm Dario 🤙</h1>
+<h1 align="center">What's up! I'm Darío 🤙</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Creative Mind</h3>
 
 ---
